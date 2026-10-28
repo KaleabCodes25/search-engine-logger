@@ -1,0 +1,4 @@
+2026-10-28 09:15:35 launch
+2026-10-28 09:15:38 search : where is the dog
+2026-10-28 09:15:42 search : what do you mean
+2026-10-28 09:15:44 exit
